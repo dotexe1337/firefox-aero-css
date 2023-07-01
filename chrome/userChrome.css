@@ -5513,31 +5513,9 @@ color: -moz-DialogText !important;
 
 /* Remove all tabs-realted transition effects */
 
-.tabbrowser-tab {
-transition: unset !important;
-}
-
-.tab-icon-image,
-.tab-close-button,
-.tabbrowser-tab::after,
-.tab-background {
-transition: unset !important;
-}
 
 
-@media not (prefers-reduced-motion: no-preference) {
 
-.tabbrowser-tab:not([pinned]) {
-max-width: 225px !important;
-min-width: 76px !important;
-}
-
-}
-
-.closing-tabs-spacer {
-width: unset !important;
-display: none !important;
-}
 
 
 /* Classic tabs design */
