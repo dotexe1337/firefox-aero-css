@@ -9,4 +9,4 @@ Firefox 3.6-inspired aero CSS for 78ESR/79
 - avenged110 (created part of the about dialog)
 
 ## Screenshots:
-![image]([https://](raw.githubusercontent.com/docrR/firefox-strata-xp-css/main/screenshot/ss1.png)raw.githubusercontent.com/docrR/firefox-strata-xp-css/main/screenshot/ss1.png{url})
+![image](https://{i.postimg.cc/gc8D0zh9/image.png})
