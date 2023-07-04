@@ -1,4 +1,4 @@
-## firefox-aero-css
+## firefox-strata-css
 Firefox 3.6-inspired CSS for 78ESR/79
 ## Experience all the benefits of Firefox Quantum with the colorful toolbar goodness of Firefox 3!
 
