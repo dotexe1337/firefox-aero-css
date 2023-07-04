@@ -1,8 +1,10 @@
 ## firefox-aero-css
-Firefox 3.6-inspired aero CSS for 78ESR/79
+Firefox 3.6-inspired CSS for 78ESR/79
+Experience all the benefits of Firefox Quantum with the colorful toolbar goodness of Firefox 3!
 
 ## Thank you to:
 
+- Dotexe
 - Ryu (created the original aero theme mod)
 - docR (created many of the ff3.6 aero parts of the theme)
 - B00ze64 (created the Firefox Menu Icons Plus theme)
