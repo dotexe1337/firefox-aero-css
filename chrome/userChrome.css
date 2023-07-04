@@ -7796,3 +7796,25 @@ padding: 10px !important;
 
   /* Hide bottom license bar and Mozilla links */
   #bottomBox, #communityDesc, #contributeDesc {display: none !important;}
+  
+/*Additional Settings*/  
+}  
+  /* Always hide the tracking protection icon */
+#tracking-protection-icon-box {
+    display: none;
+}
+
+#alltabs-button{
+  visibility: visible !important;
+  display: unset !important;
+}
+
+:-moz-any(.browserContainer,#viewSource) :-moz-any(findbar,#FindToolbar) .findbar-closebutton {
+  -moz-box-ordinal-group: 0 !important;
+  -moz-margin-start: 4px !important;
+  -moz-margin-end: -8px !important;
+}
+
+/*popup, menupopup,*/ #BMB_bookmarksPopup, panel[type="arrow"] {
+  transition-duration: 0.01ms !important;
+}  
