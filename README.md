@@ -9,5 +9,8 @@ Firefox 3.6-inspired aero CSS for 78ESR/79
 - avenged110 (created part of the about dialog)
 
 ## Screenshots:
-![ss1](https://github.com/dotexe1337/firefox-aero-css/assets/68521531/4c2d3e86-160b-4178-8064-f1292118f7c0)
-![ss2](https://github.com/dotexe1337/firefox-aero-css/assets/68521531/710dbbc7-3b7e-404f-a090-10262e76dbfb)
+![s1](https://github.com/dotexe1337/firefox-aero-css/assets/68521531/cbaa5020-0259-457c-8495-b75b8e1ba1ac)
+![s2](https://github.com/dotexe1337/firefox-aero-css/assets/68521531/65862f87-1cb3-4f47-b7b1-6771236f4e98)
+![s3](https://github.com/dotexe1337/firefox-aero-css/assets/68521531/19db4efb-cc10-475e-b171-6819737d9275)
+![s4](https://github.com/dotexe1337/firefox-aero-css/assets/68521531/fc977107-e497-4e45-9aeb-9cd3ea79946a)
+![s5](https://github.com/dotexe1337/firefox-aero-css/assets/68521531/3fc3d6ab-1940-4426-bc14-b6a44e02dbee)
