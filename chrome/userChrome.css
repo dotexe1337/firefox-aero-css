@@ -7825,3 +7825,8 @@ padding: 10px !important;
   display:none!important;
 
 }
+
+/* No blue swipe on tabs when loaded */
+.tabbrowser-tab .tab-loading-burst {
+  display: none !important;
+}
