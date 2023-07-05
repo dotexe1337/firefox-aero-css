@@ -7818,3 +7818,10 @@ padding: 10px !important;
 /*popup, menupopup,*/ #BMB_bookmarksPopup, panel[type="arrow"] {
   transition-duration: 0.01ms !important;
 }  
+
+/*Remove line from Container tabs*/
+.tab-bottom-line{
+
+  display:none!important;
+
+}
