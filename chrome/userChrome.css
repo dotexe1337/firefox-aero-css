@@ -7614,6 +7614,33 @@ background-image: -moz-image-rect(url("autoscroll.png"), 56, 28, 84, 0) !importa
 
 @-moz-document url("chrome://browser/content/places/places.xhtml") {
 
+window#places[title="Library"] {
+  background-color: #EEF3FA !important;
+}
+
+#placesList {
+        -moz-appearance: none !important;
+        background-color: #EEF3FA !important;
+        }
+        
+ #places treechildren:not(.autocomplete-treebody)::-moz-tree-row(selected), #placesList>treechildren::-moz-tree-row(selected) {
+        -moz-appearance: none !important;
+        -moz-font-smoothing-background-color: none !important;
+        border-top: none !important;
+         background:dodgerblue !important; /*var(--theme-selection-background) !important;*/
+        color: var(--in-content-text-color) !important;
+    }
+    
+    #placeContent treechildren:not(.autocomplete-treebody)::-moz-tree-cell-text(selected), #placesList>treechildren::-moz-tree-cell-text(selected) {
+        color: white !important;
+    }
+    
+     #places treechildren::-moz-tree-row {
+        background-color: transparent !important;
+    }
+    
+
+
 #placesToolbox {
 padding-bottom: 1px !important;
 }
@@ -8092,9 +8119,8 @@ background-color: #c1e4ff !important;
 }
 
 /* Library Background */
-window#places[title="Library"] {
-  background-color: #EEF3FA !important;
-}
+
+
 
 
 
