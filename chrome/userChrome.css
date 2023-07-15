@@ -7648,6 +7648,7 @@ padding-bottom: 1px !important;
 #placesToolbar {
   -moz-appearance: none !important; 
   background-image: url("mediabar.png") !important; 
+   background-position: center;
 }
 
 #placesMenu > menu {-moz-appearance: none !important; }
