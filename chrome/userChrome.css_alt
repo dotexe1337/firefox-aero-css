@@ -6615,9 +6615,7 @@ padding-bottom: 1px !important;
 }
 
 toolbar {
-  background: unset !important;
-  border: unset !important;
-  box-shadow: unset !important;
+-moz-appearance: toolbar !important;
 }
 
 #titlebar {
