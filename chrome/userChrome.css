@@ -7793,16 +7793,37 @@ border-top: 1px solid ThreeDShadow !important;
 
 @-moz-document url("chrome://browser/content/pageinfo/pageInfo.xhtml") {
 
-#topBar {
-background-color: -moz-Field !important;
-color: -moz-FieldText !important;
-border-bottom: 1px solid ThreeDLightShadow !important;
-padding-inline-start: 10px !important;
+.paneSelector, #topBar {
+  background-color: rgb(90, 116, 164);
+  color: white;
+  background-image: url("view.png");
+  background-position: center bottom;
+  background-repeat: repeat-x;
+  border-bottom: 2px groove ThreeDFace;
+  margin: 0;
+  padding: 0;
 }
 
 #viewGroup > radio {
 list-style-image: url("pageInfo.png") !important;
 padding: 3px !important;
+color: white;
+}
+
+#viewGroup > radio:hover,
+radio[pane]:hover {
+  background-color: rgb(94, 138, 188);
+  background-image: url("view-hover.png");
+  background-position: center bottom;
+  color: white !important;
+}
+
+#viewGroup > radio[selected="true"],
+radio[pane][selected="true"] {
+  background-color: rgb(174, 198, 226);
+  background-image: url("view-selected.png");
+  background-position: center bottom;
+  color: black !important;
 }
 
 #generalTab {
