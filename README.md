@@ -1,6 +1,6 @@
 ## Firefox 3.6-inspired CSS for 78ESR/79
 
-## Experience all the benefits of Firefox Quantum with the colorful toolbar goodness of Firefox 3!
+## Experience all the benefits of Firefox Quantum with the colorful toolbar goodness of Firefox 3 Aero!
 
 Theme is designed and optimized for Firefox versions 78.15 - 79.0. MyPal 68 is also supported, with some caveats.
 
@@ -12,6 +12,7 @@ Theme is designed and optimized for Firefox versions 78.15 - 79.0. MyPal 68 is a
 - B00ze64 (created the Firefox Menu Icons Plus theme)
 - Aris-t2 (some CSS from CustomCSSforFx was adapted to this theme)
 - avenged110 (created part of the about dialog)
+- Arvid Axelsson's Kempelton theme for Firefox. Some resources have been adapted from that theme.
 
 ## Additional Tweaks:
 
