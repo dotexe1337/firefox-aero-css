@@ -19,6 +19,7 @@ This theme is designed and optimized for Firefox versions 78.15 - 79.0. Mypal68 
 [Custom User JS scripts for Fx3 throbber, separators, and other tweaks](https://mega.nz/file/I3p1hbYb#BYvnUEWbI6OToac62UilXHFFjTleyM5fh1xTPqPvgUE)
 
 Recommended Extensions:
+
 [Livemarks](https://addons.mozilla.org/en-US/firefox/addon/livemarks/)
 
 [Link Properties Plus](https://addons.mozilla.org/en-US/firefox/addon/link-properties-plus/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
