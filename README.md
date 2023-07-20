@@ -20,7 +20,9 @@ This theme is designed and optimized for Firefox versions 78.15 - 79.0. Mypal68 
 
 Recommended Extensions:
 [Livemarks](https://addons.mozilla.org/en-US/firefox/addon/livemarks/)
+
 [Link Properties Plus](https://addons.mozilla.org/en-US/firefox/addon/link-properties-plus/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+
 [New Tab Context](https://addons.mozilla.org/en-US/firefox/addon/new-tab-context/)
 
 ## Screenshots:
