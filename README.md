@@ -1,6 +1,6 @@
 ## Firefox 3.6-inspired CSS for 78ESR/79
 
-Experience all the benefits of Firefox Quantum with the colorful toolbar goodness of Firefox 3 Aero!
+Experience all of the benefits of Firefox Quantum with the colorful toolbar goodness of Firefox 3 Aero!
 
 This theme is designed and optimized for Firefox versions 78.15 - 79.0. Mypal68 is also supported, with some caveats.
 
