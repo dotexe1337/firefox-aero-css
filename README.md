@@ -1,13 +1,13 @@
 ## Firefox 3.6-inspired CSS for 78ESR/79
 
-## Experience all the benefits of Firefox Quantum with the colorful toolbar goodness of Firefox 3 Aero!
+Experience all the benefits of Firefox Quantum with the colorful toolbar goodness of Firefox 3 Aero!
 
-Theme is designed and optimized for Firefox versions 78.15 - 79.0. MyPal 68 is also supported, with some caveats.
+This theme is designed and optimized for Firefox versions 78.15 - 79.0. Mypal68 is also supported, with some caveats.
 
 ## Thank you to:
 
-- dotexe1337 (for his contributions to the theme)
 - Ryu (created the original aero theme mod)
+- dotexe1337 (for his contributions to the theme)
 - docR (created many of the ff3.6 aero parts of the theme)
 - B00ze64 (created the Firefox Menu Icons Plus theme)
 - Aris-t2 (some CSS from CustomCSSforFx was adapted to this theme)
@@ -16,14 +16,12 @@ Theme is designed and optimized for Firefox versions 78.15 - 79.0. MyPal 68 is a
 
 ## Additional Tweaks:
 
-Custom userJs scripts for Fx3 throbber, separators, and other tweaks:
-https://mega.nz/file/I3p1hbYb#BYvnUEWbI6OToac62UilXHFFjTleyM5fh1xTPqPvgUE
+[Custom User JS scripts for Fx3 throbber, separators, and other tweaks](https://mega.nz/file/I3p1hbYb#BYvnUEWbI6OToac62UilXHFFjTleyM5fh1xTPqPvgUE)
 
-Recommended Extenions:
-
-https://addons.mozilla.org/en-US/firefox/addon/livemarks/ | 
-https://addons.mozilla.org/en-US/firefox/addon/link-properties-plus/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search | 
-https://addons.mozilla.org/en-US/firefox/addon/new-tab-context/
+Recommended Extensions:
+[Livemarks](https://addons.mozilla.org/en-US/firefox/addon/livemarks/)
+[Link Properties Plus](https://addons.mozilla.org/en-US/firefox/addon/link-properties-plus/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+[New Tab Context](https://addons.mozilla.org/en-US/firefox/addon/new-tab-context/)
 
 ## Screenshots:
 ![1](https://github.com/dotexe1337/firefox-aero-css/assets/68521531/5cab73f0-6289-4bbb-b928-73a3526d950d)
