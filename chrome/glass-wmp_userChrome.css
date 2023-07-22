@@ -8222,3 +8222,9 @@ toolbar #zoom-controls > #zoom-reset-button{
 .sidebar-placesTreechildren::-moz-tree-row {
   min-height: 18px !important;
 }
+
+.customizationmode-button {
+	appearance: button !important;
+	background: url("angryimg.png") repeat-x;
+	color: black !important;
+}
