@@ -173,7 +173,7 @@
 /* top level image on white background - [only use one at a time] *******************************/
 /* [!] this settings can sometimes cause glitches ***********************************************/
 /*@import "./css/webcontent/toplevel_image_classic_v1.css"; /**/
- @import "./css/webcontent/toplevel_image_classic_v2.css"; /**/
+ /*@import "./css/webcontent/toplevel_image_classic_v2.css"; /**/
 
 /* Screenshots - internal browser add-on ********************************************************/
  @import "./css/webcontent/screenshots_alternative_save_ui.css"; /**/
